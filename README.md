@@ -9,7 +9,7 @@
 1. **Download Love2D**: https://love2d.org/
 2. **Clone this repo** or [download the ZIP](https://github.com/your-username/target-practice-game/archive/refs/heads/main.zip)
 3. Run the game:
-   - Option 1: Drag the project folder onto the `love.exe`
+   - Option 1: Drag the project folder into the `love.exe`
    - Option 2 (CLI):
 
      ```bash
